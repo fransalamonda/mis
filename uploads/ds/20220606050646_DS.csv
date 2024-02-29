@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM220400213,1,Y,06/06/2022,DEDE JUNAEDI,CU04497,CV. SURYA PRATAMA INDONESIA,DPSPT00012,CBD CIBUBUR,CIBUBUR    , ,22PX12A06XXX,20.00 ,6.00 ,6.00,,,,,,,,,,,,,,,,,,,,,,,,,,C3000D,,,
+SO03-IDM220500099,1,Y,06/06/2022,HERI KUSWANTO,CU05181,PT. PERUSAHAAN PERSEROAN (PERSERO) PT. HUTAMA KARYA,DPHAK00018,STRUKTUR PARKIR (ELEVATED) TAMAN MINI INDONESIA INDAH (TMII),JAKARTA    , ,30MX12A06TMI,1385.00 ,1114.00 ,35.00,,,,,,,,,,,,,,,,,,,,,,,,,,C3000D,,,
+SO02-IDM220600021,1,Y,06/06/2022,FERDY WIDASMARA,CT04011,BP ARIEF PITRA YULIYANTHO (NIK 3276100407750002),DRAPY00005,JL WIRA LOKA 1 G 4 PERUMAHAN WARINGIN PERMAI,BEKASI    , ,22FN12A06XXX,26.00 ,26.00 ,26.00 ,,,,,,,,,,,,,,,,,,,,,,,,,,C0000E,,,

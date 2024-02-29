@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM230600076,1,Y,15/06/2023,HERI KUSWANTO,CU04956,PT. MITRA BANGUN CIPTA,DPMBC00015,"CLUSTER AA KOTA WISATA, CIBUBUR (DEPAN BPK PENABUR)",CIBUBUR    , ,LCFV12A06XXX,38.00 ,38.00 ,12.00,,,,,,,,,,,,,,,7.00,5.00,,,,,,,,,MANUAL,C3000A,,
+SO03-IDM230600102,1,Y,15/06/2023,HERI KUSWANTO,CU04956,PT. MITRA BANGUN CIPTA,DPMBC00015,"CLUSTER AA KOTA WISATA, CIBUBUR (DEPAN BPK PENABUR)",CIBUBUR    , ,22FI12A06XXX,40.00 ,40.00 ,7.00,,,,,,,,,,,,,,,7.00,,,,,,,,,,MANUAL,C3000A,,
+SO21-IDM230500001,1,Y,15/06/2023,ARGO YOSO,CU00234,PT KARYA PALMALINDO ANUGERAH,DPKPA00055,DEPARTEMENT KEDOYA MOCK UP KORIDOR 13,JAKARTA    , ,VIPER08-UTWT,5.00 ,5.00 ,2.00,,,,,,,,,,,,,,,,,,,,,,2.00,,,MANUAL,C3000D,,

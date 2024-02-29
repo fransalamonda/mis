@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R41CTP - Plant Citeureup Bogor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM221100699,1,Y,02/12/2022,DEDE JUNAEDI,CU05419,PT. SAPTA REKSA UTAMA,DPSRU00003,KAWASAN MNC LAND LIDO,BOGOR    , ,35PX07A06LSC,68.00 ,68.00 ,66.00,,,,,,,,12.00,12.00,12.00,12.00,,12.00,6.00,,,,,,,,,,,MANUAL,C0000E,,
+SO03-IDM221200005,1,Y,02/12/2022,LUDI PURNAMA,CU04531,PT. MENARA INTI KARYA,DPMIK00008,PROYEK INTERFLEX JL TENGSAU KP MALINGPING DESA SUKAHATI,CITEUREUP    , ,30FN12A06XXX,50.00 ,50.00 ,24.00,,,,,,,,6.00,6.00,6.00,6.00,,,,,,,,,,,,,,MANUAL,C3000D,,
+SO02-IDM221200012,1,Y,02/12/2022,LUDI PURNAMA,CU05059,CV. ABDI MAHYRA KARYA,DPAMK00041,DESA SUKARESMI,BOGOR    , ,25FI12A06XXX,100.00 ,100.00 ,25.00,,,,,,,,,,,,,,,,,,,,,,12.00,12.00,1.00,MANUAL,C0000E,,

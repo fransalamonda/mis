@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM220100046,1,Y,08/01/2022,SULAIMAN,CU02964,CV BUNGA AGUNG PERKASA,DPBUP00075,JL PERUMAHAN GRAND MAHKOTA NO 30 KEDUNGJAYA,KEC BABELAN    , ,30MX12A06BKS,150.00 ,150.00 ,21.00,,,,,,,,,,,,,,,,,,,,,7.00,7.00,7.00,,MANUAL,C3000D,,
+SO02-IDM220100116,1,Y,08/01/2022,HERRU KUSTANTO,CT04687,BP SUWOYO (NIK 3201020405760024),DRSUW00006,JALAN KEBUN BUAH METROLAND/VICTORIA SAMUDRA JAYA TARUMA JAYA,BEKASI    , ,35PX12A06XXX,28.00 ,28.00 ,7.00,,,,,,,,,,,,,,,,,,,,,,,,7.00,MANUAL,C0000E,,

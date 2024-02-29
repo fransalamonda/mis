@@ -1,0 +1,60 @@
+,,,,,,,,,,,,,
+Keterangan Warna Cell,,,-, - 15 Non Screening Non MSand Pasir Cimangkok,,,,,,,,,
+,Cell sudah terdapat pilihan list,,-,,,,,,,,,,
+,Cell ditulis manual,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Normal,,,Modifikasi Mixcode,,,Modifikasi Komposisi,,,Normal,,,,
+,,,,,,,,,,,,,
+Plant,,,Modif Mix Code,Tidak,,"Additional (Apabila menggunakan/tidak retarder isi dengan angka 0%, 0.1%, 0.15%, dst)",,,Rubah Komposisi,,,Note : Mohon diperhatikan kembali baris komposisi mix design tidak mengandung selain komposisi dibawah,
+Area, - ,,,,,,,,Normal,,,,
+,,,Plant Bantuan,,,Retarder,,,,,,,
+ERP Code,,,,0,,,,,,,,,
+Original Code,FALSE,,Apabila Mixcode yang diingikan berbeda,,,"Additional (apabila tidak ada perubahan isi di mohon untuk mengkosongkan kolom dan Apabila menggunakan dengan jumlah penambahan misal : 10, 15, 20)",,,Ya,,,Material Code,Material
+Mix Type,0,,,,,,,,"Apabila komposisi tidak tersedia, bisa di input manual",,,WATER,Air
+Retarder,0.00%,,,,,,,,,,,SEMEN,Semen
+Retarder Koreksi,0.00%,,Deksripsi Mixcode,,,,,,,,,FA,Fly Ash
+Msand %,0%,,Awal,0,,Tambah Semen,,,Material,Komposisi (Kg),,SAND,Pasir
+Silica Fume,0,,Diganti,,,,,,Air,,,MSAND,Abu Batu
+Slump (mm),0,,,,,Faktor Perjalanan dari Plant Bantuan,,,Semen,,,AGG1,Split 5-10mm
+Water Design,0,,Slump,,,Perjalanan Normal,,,Fly Ash,,,AGG2,Split 10-25mm
+Water Msand 30%,0,,Awal,0,,,,,Pasir,,,AGG3,Split 25-40mm
+Water Koreksi,0,,Diganti,,,Penggunaan Msand,,,Abu Batu,,,PLAST,Retarder
+Unit Weight,0,,,,,Normal,,,Split AGG 1,,,GET702,Retarder
+Air (%),0.00,,,,,,,,Split AGG 2,,,FLBPD-19,Retarder
+S/A (%),0%,,,,,,,,Split AGG 3,,,SK 183,Superplaticizer
+S/A (%) Koreksi,0%,,,,,Penggunaan Screening,,,Retarder,,,GENB1714,Superplaticizer
+SG Cement,0.00,,,,,Menggunakan Screening,,,Superplaticizer,,,FLBNF-15,Superplaticizer
+SG FA,0.00,,,,,,,,HRWR,,,VIS 1003,HRWR
+SG Sand,0.00,,,,,Komposisi NFA,,,,,,GENR8212,HRWR
+SG MSand,0.00,,,,,Normal,,,,,,FLB-RPF34,HRWR
+SG AGG 1,0.00,,,,,,,,,,,,
+SG AGG 2,0.00,,,,,Jenis Msand,,,,,,,
+SG AGG 3,0.00,,,,,Normal,,,,,,,
+SG Silica Fume,0.00,,,,,,,,,,,,
+VA Koreksi,0,,,,,Jenis Semen,,,,,,,
+W/C,0.00,,,,,OPC Type 1,,,,,,,
+Slump (mm),0,,,,,,,,,,,,
+Cement Final,0,,,,,Jenis Screening,,,,,,,
+Cement Design,0,,,,,AGG 1,,,,,,,
+"Cement Design""",#DIV/0!,,,,,,,,,,,,
+"Cement Design""'",#DIV/0!,,,,,Jenis Pasir,,,,,,,
+"W/C """,#DIV/0!,,,,,Normal,,,,,,,
+FA,0,,,,,,,,,,,,
+Sand,0,,,,,,,,,,,,
+MSand,0,,,,,,,,,,,,
+AGG1,0,,,,,,,,,,,,
+AGG2,0,,,,,,,,,,,,
+AGG3,0,,,,,,,,,,,,
+Retarder,0.000,,,,,,,,,,,,
+SP,0.000,,,,,,,,,,,,
+% FA,0%,,,,,,,,,,,,
+% Sand,0%,,,,,,,,,,,,
+% Msand,100%,,,,,,,,,,,,
+% AGG 1,0%,,,,,,,,,,,,
+% AGG 2,0%,,,,,,,,,,,,
+% AGG 3,0%,,,,,,,,,,,,
+% Admixture,0.00%,,,,,,,,,,,,
+% SP,0.00%,,,,,,,,,,,,
+% HRWR,0.00%,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

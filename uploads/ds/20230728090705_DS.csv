@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM230700506,1,Y,28/07/2023,FERDY WIDASMARA,CU05782,PT. BERKAH MAJU PERKASA,DPBMP00024,PT PLIB JL PANGKALAN 2 KEL SUMUR BATU BANTARGEBANG,BEKASI    , ,30PX12A06XXX,14.00 ,14.00 ,14.00,,,,,,,,,,,,,,,,,,,7.00,,,,7.00,,MANUAL,C0000E,,
+SO03-IDM230700196,1,Y,28/07/2023,FERDY WIDASMARA,CU02034,PT REKAGUNATEK PERSADA,DCREP00011,PROJECT STRUKTUR ARSITEKTUR UNIQLO & HI - YOU KOTA HARAPAN INDAH BEKASI (S23005),KOTA HARAPAN INDAH - BEKASI BARAT    , ,25MX12A06XXX,457.00 ,457.00 ,14.00,,,,,,,,,,,,,,,,,,,,,,,7.00,7.00,MANUAL,C6000D,,

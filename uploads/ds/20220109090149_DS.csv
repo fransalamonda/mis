@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO08-IDM211200032,1,Y,09/01/2022,SULAIMAN,CU02373,PT MAHILI BANGUN PERSADA,DPMBP00016,PETIKEMAS KOJA JAKARTA UTARA,JAKARTA    , ,17PX12A06XXX,4.00 ,2.00 ,2.00,,,,,,,,,,,,,,,,,,,2.00,,,,,MANUAL,,C3000A,,
+SO03-IDM211200548,1,Y,09/01/2022,SULAIMAN,CU02373,PT MAHILI BANGUN PERSADA,DPMBP00013,KSO TERMINAL PETI KEMAS KOJA JL DIGUL NO 1 TANJUNG PRIOK,JAKARTA UTARA    , ,45PX12A06J3D,32.00 ,32.00 ,6.00,,,,,,,,,,,,,,,,,,,6.00,,,,,MANUAL,,C3000D,,

@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM220200004,1,Y,02/02/2022,LUDI PURNAMA,CU05024,PT. KARYA TEKNIK BERSAMA,DPKTB00008,GATE CLUSTER AGRA PT ADHI COMMUTER PROPERTY SENTUL,BOGOR    , ,25PX12A06XXX,10.00 ,10.00 ,10.00,,,,,,,,,,,6.00,4.00,,,,,,,,,,,,,MANUAL,C0000E,,
+SO02-IDM220200003,1,Y,02/02/2022,LUDI PURNAMA,CU04894,PT. TIANIS SURYA ABADI,DPTSA00066,JL FLAMBOYAN 1 NO 5 VILLA CITRA BANTARJATI F2,BOGOR    , ,25FI12A06XXX,11.00 ,11.00 ,11.00,,,,,,,,,,,11.00,,,,,,,,,,,,,,CPS,C0000E,,

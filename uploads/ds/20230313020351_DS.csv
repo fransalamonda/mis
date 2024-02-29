@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R28CMP - Plant Cempaka Putih,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM230300088,1,Y,13/03/2023,FERDY WIDASMARA,CU04607,PT. DEKA CIPTA CEMERLANG,DPDCC00019,"PEMBANGUNAN 4 UNIT RUMAH L5X12 TIPE 67 (B02/01, B02/15, B02/17, B02/25)",CLUSTER BRUNNERA    , ,22FI12A06XXX,50.00 ,50.00 ,49.00,,,,,,,,,21.00,14.00,14.00,,,,,,,,,,,,,,CPS,C3000D,,
+SO03-IDM230100277,1,Y,13/03/2023,HERI KUSWANTO,CU03010,PT MAJU ANEKA SARANA,DPMAS00028,PT PULAUINTAN/AMBOJA. JL RAYA MABES HANKAM KEL BAMBU APUS,JAKARTA    , ,30FV12A06XXX,200.00 ,82.00 ,82.00,,,,,,,,14.00,14.00,14.00,14.00,14.00,12.00, ,,,,,,,,,,,MANUAL,C3000D,,

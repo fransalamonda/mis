@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R41CTP - Plant Citeureup Bogor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM221200448,1,Y,22/12/2022,LUDI PURNAMA,CU00481,PT EPSYLON CITRA INFORMATIKA,DRECI00029,JL BUNGA ASTER 70 CLUSTER SIERA MADRE SENTUL CITY,BOGOR    , ,25FN12A06XXX,9.50 ,9.50 ,9.50,,,,,,,,7.00,2.50,,,,,,,,,,,,,,,,MANUAL,C0000A,,
+SO02-IDM221200065,1,Y,22/12/2022,DEDE JUNAEDI,CU05484,CV. GALAKSI MITRA ABADI,DPGMA00005,KALIBARU BOJONGGEDE,BOGOR    , ,20MV10A06XXX,200.00 ,110.00 ,50.00,,,,,,,,,,,,,,,,,,,,12.00,12.00,12.00,12.00,2.00,CPS,C0000E,,
+SO02-IDM221200491,1,Y,22/12/2022,LUDI PURNAMA,CU05402,CV. WAHYU JAYA,DPWAJ00002,CLUSTER GARDEN HOUSE JL GUNUNG BATUR NO 8 & JL GUNUNG TAMBORA NO 16 GREEN,MOUNTAIN BOGOR JAWA BARAT 16810    , ,22FI14A06XXX,9.00 ,9.00 ,9.00,,,,,,,,6.00,3.00,,,,,,,,,,,,,,,,MANUAL,C0000E,,

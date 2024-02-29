@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R32TGD - Plant Tegal Danas - Cikarang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM180500047,1,Y,05/05/2018,ANIK JOHARI,CU00498,PT SEMESTA,DRSMT00002,"INDOLIBERTY, JL RAYA TELUK JAMBE DS TELUK JAMBE KARAWANG","INDOLIBERTY, JL RAYA TELUK JAMBE DS TELUK JAMBE KARAWANG    ",GUNAWAN 085367707300,22FI12A11XXX,7 ,7.00,,,,,,,,,,7.00,,,,,,,,,,,,,,,MANUAL,C3000D,,
+SO03-IDM180500050,1,Y,05/05/2018,ARIF FIRDAUS,CU01745,PT PUSAKA SINAR INTAN,DPPSI00018,RUKO GRAND BUSINESS PARK BLOK EA117-20,GRAND WISATA BEKASI    , ,22FI12A06XXX,6 ,6.00,,,,,,,,6.00,,,,,,,,,,,,,,,,,MANUAL,C3000C,,

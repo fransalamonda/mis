@@ -1,0 +1,59 @@
+Keterangan Warna Cell,,,,,,,,,,,,,
+,Cell sudah terdapat pilihan list,,,,,,,,,,,,
+,Cell ditulis manual,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Normal,,,Modifikasi Mixcode,,,Modifikasi Komposisi,,,Data Tidak Ditemukan,,,,
+,,,,,,,,,,,,,
+Plant,Jati Asih BP 1,,Modif Mix Code,Tidak,,"Additional (Apabila menggunakan/tidak retarder isi dengan angka 0%, 0.1%, 0.15%, dst)",,,22P2,,,Note : Mohon diperhatikan kembali baris komposisi mix design tidak mengandung selain komposisi dibawah,
+Area,Jabotabek,,,,,,,,"Apabila komposisi tidak tersedia, bisa di input manual",,,,
+,,,Plant Bantuan,,,Retarder,0.30%,,,,,,
+ERP Code,22PX12A06XXX,,,0,,,,,,,,,
+Original Code,22P2,,Apabila Mixcode yang diingikan berbeda,,,"Additional (apabila tidak ada perubahan isi di mohon untuk mengkosongkan kolom dan Apabila menggunakan dengan jumlah penambahan misal : 10, 15, 20)",,,Material,Komposisi (Kg),,Material Code,Material
+Mix Type,Normal,,,,,,,,Air,-,,WATER,Air
+Unit Weight,2299,,,,,,,,Semen,-,,SEMEN,Semen
+Air (%),1.20,,Deksripsi Mixcode,,,,,,Fly Ash,-,,FA,Fly Ash
+S/A (%),45%,,Awal,K225KG/CM2-NORM-SL12-G25,,Cement Add,,,Sika Fume,-,,SK SF,Sika Fume
+S/A (%) Koreksi,45%,,Diganti,,,,,,Pasir,-,,SAND,Pasir
+SG Cement,3.14,,,,,Faktor Perjalanan dari Plant Bantuan,,,Abu Batu,-,,MSAND,Abu Batu
+SG FA,2.37,,Slump,,,Perjalanan Normal,,,Split AGG 1,-,,AGG1,Split 5-10mm
+SG Sand,2.62,,Awal,12+/-2,,,,,Split AGG 2,-,,AGG2,Split 10-25mm
+SG MSand,2.58,,Diganti,,,"Penggunaan MSand 50%, Jika Belum",,,Split AGG 3,-,,AGG3,Split 25-40mm
+SG AGG,2.58,,,,,Normal,,,Retarder,-,,AGG4 (QQQ),Split 10-25mm
+VA Koreksi,696,,,,,,,,Superplaticizer,-,,P121R,Retarder
+W/C,0.64,,,,,Penggunaan Screening,,,HRWR,-,,RT6P,Retarder
+Slump (mm),120,,,,,Menggunakan Screening,,,Slump,-,,S523N,Superplaticizer
+Slump (mm),12+/-2,,,,,,,,Deksripsi,-,,SK 163,Superplaticizer
+Water,195,,,,,Komposisi NFA,,,,,,VIS 1003,Visco 1003
+Cement Final,305,,,,,Normal,,,,,,,
+Cement Design,305,,,,,,,,,,,,
+"Cement Design""",305,,,,,,,,,,,,
+"Cement Design""'",305,,,,,,,,,,,,
+"W/C """,0.64,,,,,,,,,,,,
+FA,0,,,,,,,,,,,,
+Sand,246,,,,,,,,,,,,
+MSand,566,,,,,,,,,,,,
+AGG1,296,,,,,,,,,,,,
+AGG2,691,,,,,,,,,,,,
+AGG3,0,,,,,,,,,,,,
+Retarder,1.220,,,,,,,,,,,,
+SP,0.000,,,,,,,,,,,,
+% FA,0%,,,,,,,,,,,,
+% Sand,30%,,,,,,,,,,,,
+% Msand,70%,,,,,,,,,,,,
+% AGG 1,30%,,,,,,,,,,,,
+% AGG 2,70%,,,,,,,,,,,,
+% AGG 3,0%,,,,,,,,,,,,
+% Admixture,0.40%,,,,,,,,,,,,
+% SP,0.00%,,,,,,,,,,,,
+% HRWR,0.00%,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

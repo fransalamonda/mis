@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R28CMP - Plant Cempaka Putih,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM230700207,1,Y,23/07/2023,HERI KUSWANTO,CU04923,PT. POLYGON PERKASA INDONUSA,DPPPS00021,PT PJPT SENOPATI JL H WAHAB AFFAN 002/001 KEL MEDAN SATRIA,KOTA BEKASI    , ,30FI12A06XXX,115.00 ,115.00 ,98.00,,,,,,,,14.00,14.00,14.00,14.00,14.00,14.00,14.00, ,,,,,,,,,,MANUAL,C3000D,,
+SO02-IDM230700038,1,Y,22/07/2023,HERI KUSWANTO,CT05743,IBU LINDAWATI (NIK 3172054702880001),DRLDW00004,KAMPUS MH THAMRIN JL RAYA PONDOK GEDE,JAKARTA TIMUR    , ,17FV12A06XXX,57.00 ,57.00 ,42.00,,,,,,,,14.00,14.00,14.00, , ,,,,,,,,,,,,,MANUAL,C0000E,,

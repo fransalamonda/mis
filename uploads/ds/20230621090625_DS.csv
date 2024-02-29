@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,,
+PLANT: R01JAT - Jati Asih,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM230600111,1,Y,21/06/2023,MUHAMMAD RIZAL,CU05621,PT. ARTADINATA AZZAHRA SEJAHTERA,DPAAS00006,PEMBANGUNAN GEDUNG BALAI LABORATORIUM BEA CUKAI KELAS 1,JAKARTA    , ,30MD12A06XXX,100.00 ,88.00 ,7.00,,,,,,,,,,,,,,7.00,, , , , , ,,,,,MANUAL,C3000E,,,
+SO02-IDM230600384,1,Y,21/06/2023,MUHAMMAD RIZAL,CU05733,PT. KALYANAMITTA BANGUN SELARAS,DPKLY00002,"JALAN RAYA BEKASI KM 26, UJUNG MENTENG, KEC CAKUNG",JAKARTA TIMUR    , ,30FI12A06XXX,94.00 ,94.00 ,7.00,,,,,,,,,,,,,,7.00,,,,,,,,,,,MANUAL,C0000E,,,

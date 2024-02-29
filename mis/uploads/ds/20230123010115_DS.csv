@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM230100374,1,Y,24/01/2023,DEDE JUNAEDI,CT06012,BP JUMINO (NIK 3671113004600002),DRJMO00002,PERUMAHAN MAMPANG HILLS G.11 NO 29 DEPAN KODIM,DEPOK    , ,22FV12A06XXX,5.50 ,5.50 ,5.50,,,,,,,,5.50,,,,,,,,,,,,,,,,,MANUAL,C0000E,,
+SO03-IDM230100169,1,Y,24/01/2023,DEDE JUNAEDI,CU04789,PT. MANDIRI JAYA MAKMUR SENTOSA,DPMJM00036,PERUMAHAN RANCAMAYA BOGOR,BOGOR    , ,25PX12A06XXX,30.00 ,26.00 ,4.00,,,,,,,,4.00,,4.00,,,,,,,,,,,,,,,MANUAL,C3000A,,

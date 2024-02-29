@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R15MSP - Plant Gresik (Maspion),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM230200179,1,Y,14/02/2023,ANDRY CHRISTIANTO,CU01617,PT WASKITA BETON PRECAST,DPWBP00004,"MESS KADET S1,S3 & LABORATORIUM TERPADU UNHAN",BOGOR    , ,25MX12A06GAP,14.00 ,14.00 ,14.00,,,,,,,,,,,,,,7.00,7.00,,,,,,,,,,MANUAL,C0000E,,
+SO02-IDM230200180,1,Y,14/02/2023,ANDRY CHRISTIANTO,CU01617,PT WASKITA BETON PRECAST,DPWBP00004,"MESS KADET S1,S3 & LABORATORIUM TERPADU UNHAN",BOGOR    , ,25MX12A06GAP,15.00 ,1.00 ,1.00,,,,,,,,,,,,,,,,1.00,,,,,,,,,MANUAL,C0000E,,
+SO02-IDM230200225,1,Y,14/02/2023,ANDRY CHRISTIANTO,CT06049,BP SUTARMIN (NIK 3271032306730001),DRSTM00010,RUMAH JL ALPEN ELBRUS NO 18 SENTUL CITY,BOGOR    , ,22FV12A06XXX,6.00 ,6.00 ,6.00,,,,,,,,,,6.00,,,,,,,,,,,,,,,MANUAL,C0000D,,

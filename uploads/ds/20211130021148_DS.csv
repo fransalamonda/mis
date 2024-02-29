@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM211100611,1,Y,30/11/2021,DEDE JUNAEDI,CT05144,BP ANDY TUMANGGER (NIK 1110021005860002),DRATU00002,JL ASTER 6 RT 12 RW 05 KEL KOTA BARU,BEKASI    , ,30MX12A06BKS,32.00 ,32.00 ,32.00,,,,,,,,,,,,,,,,7.00,7.00,7.00,7.00,4.00,,,,,MANUAL,C0000E,,
+SO02-IDM211100647,1,Y,30/11/2021,ARGO YOSO,CU01896,CV FRIMA JAYA,DPFMJ00005,PROYEK IPA (INSTALASI PENGOLAHAN AIR) SETU BABAKAN,SETU BABAKAN    , ,30PX12A06XXX,70.00 ,70.00 ,70.00,,,,,,,,21.00,14.00,21.00,14.00,,,,,,,,,,,,,,CPS,C0000E,,

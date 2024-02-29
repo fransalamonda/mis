@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R42CSK - Plant Cisauk Tangerang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM210800084,1,Y,12/08/2021,DEDE JUNAEDI,CU00153,PT BANGUN MENARA ABADI,DPBMA00070,KW29. KOTA WISATA CLUSTER MIAMI BLOK SL2/9,CIBUBUR    , ,LCFU12A06XXX,9.00 ,9.0,,,,,,,,,9.00,,,,,,,,,,,,,,,,MANUAL,C3000D,,
+SO03-IDM210800146,1,Y,12/08/2021,DEDE JUNAEDI,CU01201,PT WAHANACIPTA MULIAGRAHA,DPWCM00009,PT JATIASIH DISTRIBUTOR RAYA JL SATOPATI NO 47 RT 004 RW 002 BANTARGEBANG,BEKASI    , ,25PX12A06XXX,10.00 ,7.0,,,,,,,,,,7.00,,,,,,,,,,,,,,,MANUAL,C3000D,,
+SO02-IDM210800118,1,Y,12/08/2021,DEDE JUNAEDI,CU04535,CV. MULIA CIPTA PRATAMA,DPMCP00002,PT KARYA JAYA LOGAMINDO PANGKALAN IA BANTAR GEBANG,BEKASI    , ,30PX12A06XXX,6.00 ,6.0,,,,,,,,,,6.00,,,,,,,,,,,,,,,MANUAL,C0000E,,

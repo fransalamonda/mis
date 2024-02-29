@@ -1,0 +1,6 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO02-IDM230500265,1,Y,23/05/2023,HERI KUSWANTO,CU01812,PT. JASNET MAYCHES MANDIRI,DPJMM00003,JL NUSA INDAH 4 RT 007 RW 020 PERUMAHAN MARGAHAYU KEL MARGAHAYU,BEKASI    , ,30MX12A06BKS,60.00 ,11.00 ,5.00,,,,,,,,,,5.00,,,,,,,,,,,,,,,MANUAL,C0000E,,
+SO02-IDM230500278,1,Y,23/05/2023,HERI KUSWANTO,CU01812,PT. JASNET MAYCHES MANDIRI,DPJMM00004,JL MAWAR RT 004 RW 020 KEL MARGAHAYU,BEKASI    , ,30MX12A06BKS,46.00 ,46.00 ,42.00,,,,,,,,,,,14.00,7.00,7.00,14.00,,,,,,,,,,,MANUAL,C0000E,,

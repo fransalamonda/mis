@@ -1,0 +1,7 @@
+S/O No.,S/O Line,Main Batch Plant,Schedule Date,Sales Name,Customer ID,Customer Name,Project ID,Project Location,Project Adress,Project Tel,Product Code,Order Qty.,Delivered / Order Volume (M3),1-24Hr,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,UnLoading Method,Term,Remark,Reason
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Of,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Payment,,
+PLANT: R01JAT - Jati Asih,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SO03-IDM231100080,1,Y,11/11/2023,FERDY WIDASMARA,CU04540,PT. ZENTHA MAHARDDHIKA,DPZTM00006,MONAMI CIRACAS 4 JL RAYA CIRACAS SAMPING KELURAHAN CIRACAS,JAKARTA TIMUR    , ,30PX12A06XXX,7.00 ,7.00 ,7.00,,,,,,,,,7.00,,,,,,,,,,,,,,,,MANUAL,C4500D,,
+SO03-IDM231100019,1,Y,11/11/2023,FERDY WIDASMARA,CU02666,PT JAYA TEKNIK PONDASI,DPJTP00004,WORKSHOP JL MT HARYONO DESA TAMAN SARI KEC SETU,KAB BEKASI    , ,50PX12A06PTP,60.00 ,15.00 ,10.00,,,,,,,,,,,,,10.00,,,,,,,,,,,,MANUAL,C4500D,,
+SO02-IDM231100167,1,Y,11/11/2023,FERDY WIDASMARA,CU05257,PT. NAGA SURYA INDAH,DPNSI00009,PANGKALAN 2 NAROGONG,BEKASI    , ,30PXFLA06A1D,7.00 ,7.00 ,7.00,,,,,,,,,7.00,,,,,,,,,,,,,,,,MANUAL,C0000E,,

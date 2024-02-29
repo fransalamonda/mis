@@ -1,0 +1,58 @@
+bma_file.bma01,bma_file.bma02,bma_file.bma03,bma_file.bma04,bma_file.bma05,bma_file.bmauser,bma_file.bmagrup,bma_file.bmamodu,bma_file.bmadate,bma_file.bmaacti,bma_file.bma06,bma_file.bma07,bma_file.bmaicd01,bma_file.bma08,bma_file.bma09,bma_file.bma10,bma_file.bmaud01,bma_file.bmaud02,bma_file.bmaud03,bma_file.bmaud04,bma_file.bmaud05,bma_file.bmaud06,bma_file.bmaud07,bma_file.bmaud08,bma_file.bmaud09,bma_file.bmaud10,bma_file.bmaud11,bma_file.bmaud12,bma_file.bmaud13,bma_file.bmaud14,bma_file.bmaud15,bma_file.bmaoriu,bma_file.bmaorig,bma_file.ta_bma01,ima02
+17PX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K175KG/CM2-NORM-SL12-G25
+25MX12A06RST,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,FC25MPA-NORM-SL12-G25
+25PX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K250KG/CM2-NORM-SL12-G25
+25PX12A06WHM,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K250KG/CM2-NORM-SL12-G25
+30FD12A06WTT,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-SL12-G25-WTT
+30FI12A06GEL,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-FA15-SL12-G25
+30MI06C06TMI,,,,,,,,,,R01JAT-801,,,,,,,,6+/-2,,,,,,,,,,,,,,,,FC30MPA-FA15-SL06-G14
+30MI14A06MBA,,,,,,,,,,R01JAT-801,,,,,,,,14+/-2,,,,,,,,,,,,,,,,FC30MPA-FA15-SL14-G25
+30MX05C06TMI,,,,,,,,,,R01JAT-801,,,,,,,,5+/-2,,,,,,,,,,,,,,,,FC30MPA-NORM-SL05-G14
+30MX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,FC30MPA-NORM-SL12-G25
+30MX12A06WHM,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,FC30MPA-NORM-SL12-G25
+30PX12A06A1D,,,,,,,,,,R01JAT-801,,,,,,,,MIN 12,,,,,,,,,,,,,,,,K300KG/CM2-NORM-SL12-A1D
+30PX12A06RDB,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-NORM-SL12-G25
+30PX12A06RSV,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-NORM-SL12-G25
+30PX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-NORM-SL12-G25
+35FI10A06TGI,,,,,,,,,,R01JAT-801,,,,,,,,10+/-2,,,,,,,,,,,,,,,,K350KG/CM2-FA15-SL10-G25
+35MI14A06MBX,,,,,,,,,,R01JAT-801,,,,,,,,14+/-2,,,,,,,,,,,,,,,,FC35MPA-FA15-SL14-G25
+35PX06C06TMI,,,,,,,,,,R01JAT-801,,,,,,,,6+/-2,,,,,,,,,,,,,,,,K350KG/CM2-NORM-SL06-G14
+35PX10A06R3D,,,,,,,,,,R01JAT-801,,,,,,,,10+/-2,,,,,,,,,,,,,,,,K350KG/CM2-ACL-G25-R3D
+35PX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K350KG/CM2-NORM-SL12-G25
+36PX06A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,6+/-2,,,,,,,,,,,,,,,,K365KG/CM2-NORM-SL06-G25
+36PX06C06TMI,,,,,,,,,,R01JAT-801,,,,,,,,6+/-2,,,,,,,,,,,,,,,,K365KG/CM2-NORM-SL06-G14
+40PX12A06P3R,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K400KG/CM2-NORM-SL12-G25
+40PX12A06TMI,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K400KG/CM2-NORM-SL12-G25
+40PX18A06P3R,,,,,,,,,,R01JAT-801,,,,,,,,18+/-2,,,,,,,,,,,,,,,,K400KG/CM2-NORM-SL18-G25
+45FD12A06ASP,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K450KG/CM2-FA10-SL12-G25
+45PX12A06J3D,,,,,,,,,,R01JAT-801,,,,,,,,MIN 12,,,,,,,,,,,,,,,,K450KG/CM2-ACC3DAYS-G25
+45PXFLA06A1D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K450KG/CM2-OPENTRAFFIC1DAY
+45RX08A06R3D,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,FS45KG/CM2-ACL-G25-R3D
+50PX12A06PTP,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K500KG/CM2-NORM-SL12-G25
+BC14XXA06NCC,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,BASECOURSE-NONACC
+BC14XXC11XXX,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,BC14-G14
+BC25XXA06JOR,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,BASECOURSEA
+BC25XXA11XXX,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,AGGREGATEBASEA
+DECOC0206K25,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K250KG/CM2-COLOR BLACK
+DECOC0206K35,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K350KG/CM2-COLOR BLACK
+DECOC0406K25,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K250KG/CM2-COLOR GREEN
+QUADROP,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,QUADROP
+SC13XXS06XXX,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,SCREED1-3
+SC16XXS06XXX,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,SCREED1-6
+VCTB,,,,,,,,,,R01JAT-801,,,,,,,,NON SLUMP,,,,,,,,,,,,,,,,CTB175-NORM-NSL-G40
+VIPER08,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,OPENTRAFFIC8HOURS
+VIPER24,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,OPENTRAFFIC24HOURS 
+VIPER300-5D,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,K300KG/CM2-OPENTRAFFIC5DAYS
+VIPER350-12,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K350KG/CM2-OPENTRAFFIC12HOURS
+VIPER350-1D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K350KG/CM2-OPENTRAFFIC1DAY
+VIPER3D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,OPENTRAFFIC3DAY
+VIPER400-08,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K400KG/CM2-OPENTRAFFIC8HOURS
+VIPER450-1D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K450KG/CM2-OPENTRAFFIC1DAY
+VIPER45-03,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC3HOURS
+VIPER45-06,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC6HOURS
+VIPER45-06C,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC6HOURS-G14
+VIPER45-1D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC1DAY
+VIPER45-1DC,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC1DAY-G14
+VIPER45-28D,,,,,,,,,,R01JAT-801,,,,,,,,12+/-2,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC28DAYS
+VIPER45-3D,,,,,,,,,,R01JAT-801,,,,,,,,MIN 12,,,,,,,,,,,,,,,,FS45KG/CM2-OPENTRAFFIC3DAYS
+VIPER500-2D,,,,,,,,,,R01JAT-801,,,,,,,,FLOW,,,,,,,,,,,,,,,,K500KG/CM2-OPENTRAFFIC2DAYS
